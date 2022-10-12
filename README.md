@@ -17,4 +17,4 @@ Aguirre JD, Hine E, McGuigan K, Blows MW. Comparing G: multivariate analysis of 
 
 Hine E, Chenoweth SF, Rundle HD, Blows MW (2009). Characterizing the evolution of genetic variance using genetic covariance tensors. Phil Trans R Soc Lond B Biol Sci 364: 1567–1578.
 
-Estimating sampling error of evolutionary statistics based on genetic covariance matrices using maximum likelihood. Journal of Evolutionary Biology 28:1542-1549. doi: 10.1111/jeb.12674.
+Houle D, Meyer K. Estimating sampling error of evolutionary statistics based on genetic covariance matrices using maximum likelihood. Journal of Evolutionary Biology 28:1542-1549. doi: 10.1111/jeb.12674.
