@@ -11,7 +11,7 @@ Notably, to install the package you can
 2) library(devtools)
 3) install_github("kdoheny/wombatTools")
 
-# Referances 
+# References 
 
 Aguirre JD, Hine E, McGuigan K, Blows MW. Comparing G: multivariate analysis of genetic variation in multiple populations. Heredity (Edinb). 2014 Jan;112(1):21-9. doi: 10.1038/hdy.2013.12.
 
